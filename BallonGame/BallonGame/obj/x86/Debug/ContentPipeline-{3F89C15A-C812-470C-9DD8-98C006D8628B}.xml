@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Code\C-sharp\BallonGame\BallonGame\BallonGame\bin\x86\Debug\Content\pointer.xnb</Output>
+      <Output>D:\Github\BallonGame\BallonGame\BallonGame\bin\x86\Debug\Content\pointer.xnb</Output>
       <Time>2015-05-22T15:04:59.7977398-04:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Code\C-sharp\BallonGame\BallonGame\BallonGame\bin\x86\Debug\Content\30682.xnb</Output>
+      <Output>D:\Github\BallonGame\BallonGame\BallonGame\bin\x86\Debug\Content\30682.xnb</Output>
       <Time>2015-05-22T16:50:29.7534425-04:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Code\C-sharp\BallonGame\BallonGame\BallonGame\bin\x86\Debug\Content\red.xnb</Output>
+      <Output>D:\Github\BallonGame\BallonGame\BallonGame\bin\x86\Debug\Content\red.xnb</Output>
       <Time>2015-05-22T17:02:01.3573972-04:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Code\C-sharp\BallonGame\BallonGame\BallonGame\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Output>D:\Github\BallonGame\BallonGame\BallonGame\bin\x86\Debug\Content\Arial.xnb</Output>
       <Time>2015-05-23T10:50:10.7415464-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -44,10 +44,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>D:\Code\C-sharp\BallonGame\BallonGame\BallonGameContent\</RootDirectory>
-      <LoggerRootDirectory>D:\Code\C-sharp\BallonGame\BallonGame\BallonGame\</LoggerRootDirectory>
-      <IntermediateDirectory>D:\Code\C-sharp\BallonGame\BallonGame\BallonGame\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>D:\Code\C-sharp\BallonGame\BallonGame\BallonGame\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>D:\Github\BallonGame\BallonGame\BallonGameContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Github\BallonGame\BallonGame\BallonGame\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Github\BallonGame\BallonGame\BallonGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Github\BallonGame\BallonGame\BallonGame\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

@@ -8,3 +8,13 @@ D:\Code\C-sharp\BallonGame\BallonGame\BallonGame\obj\x86\Debug\BallonGame.pdb
 D:\Code\C-sharp\BallonGame\BallonGame\BallonGame\bin\x86\Debug\Content\30682.xnb
 D:\Code\C-sharp\BallonGame\BallonGame\BallonGame\bin\x86\Debug\Content\red.xnb
 D:\Code\C-sharp\BallonGame\BallonGame\BallonGame\bin\x86\Debug\Content\Arial.xnb
+D:\Github\BallonGame\BallonGame\BallonGame\bin\x86\Debug\Content\pointer.xnb
+D:\Github\BallonGame\BallonGame\BallonGame\bin\x86\Debug\Content\30682.xnb
+D:\Github\BallonGame\BallonGame\BallonGame\bin\x86\Debug\Content\red.xnb
+D:\Github\BallonGame\BallonGame\BallonGame\bin\x86\Debug\Content\Arial.xnb
+D:\Github\BallonGame\BallonGame\BallonGame\bin\x86\Debug\BallonGame.exe
+D:\Github\BallonGame\BallonGame\BallonGame\bin\x86\Debug\BallonGame.pdb
+D:\Github\BallonGame\BallonGame\BallonGame\obj\x86\Debug\BallonGame.csprojResolveAssemblyReference.cache
+D:\Github\BallonGame\BallonGame\BallonGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Github\BallonGame\BallonGame\BallonGame\obj\x86\Debug\BallonGame.exe
+D:\Github\BallonGame\BallonGame\BallonGame\obj\x86\Debug\BallonGame.pdb
